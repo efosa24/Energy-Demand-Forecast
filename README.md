@@ -275,7 +275,7 @@ energy-demand-forecasting-platform/
 ## Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/energy-demand-forecasting-platform.git
+git clone https://github.com/efosa24/Energy-Demand-Forecast.git
 
 cd energy-demand-forecasting-platform
 ```
@@ -567,7 +567,7 @@ Recommended production stack:
 # Author
 
 **Festus Eriamiatoe, Ph.D**
-Data Scientist | Forecasting Engineer | AI & Analytics Professional
+Data Scientist | Machine Learning Engineer | AI & Analytics Professional
 
 ---
 
